@@ -1,8 +1,8 @@
-👋 Hi, I’m @MOHAMMEDABDURRAHMAN 
-👀 I’m interested in VLSI,MACHINE LEARNING AND PYTHON
-🌱 I’m currently purusing MS in Electrical Engineering from NJIT (2023-2025)
-💞️ I’m looking to collaborate on ...MACHINE LEARNING PROJECTS, VLSI DESIGN PROJECTS
-😊 I have complted my bachelors in Electronics and Communication Engineering (2018 - 2022) from MJCET affiliate to Osmania University.
-📫 You can reach me by either my personal email : ar123qaz@gmail.com or my College email: am3639@njit.edu
+👋 Greetings, my name is MOHAMMED ABDUR RAHMAN
+👀 My areas of interest include VLSI, machine learning, and wireless networks
+🌱 Currently, I am pursuing a Master's degree in Electrical Engineering at NJIT from 2023-2025.
+💞️ I am eager to collaborate on projects related to machine learning,5g networks,machine learning etc
+😊 Additionally, I completed my Bachelor's degree in Electronics and Communication Engineering from MJCET, which is affiliated with Osmania University, between 2018 and 2022.
+📫 If you wish to contact me, you can use either my personal email at ar123qaz@gmail.com or my college email at am3639@njit.edu.
 
 
